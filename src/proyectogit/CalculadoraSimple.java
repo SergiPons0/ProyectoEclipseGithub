@@ -1,6 +1,7 @@
 package proyectogit;
 import java.util.Scanner;
-
+// @author Sergi
+// @version 1.0
 public class CalculadoraSimple {
 	//<h1>Programa Calculadora Simple Java</h1>
 	// <h3>Funcion que sirve para sumar, recibe dos valores y devuelve la suma de ellos</h3>
