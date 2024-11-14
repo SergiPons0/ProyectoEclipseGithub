@@ -26,6 +26,8 @@ public class CalculadoraSimple {
 		// Cambio realizado desde la rama feature
 
 		// Cambio realizado por un colaborador
+		
+		// Cambio realizado otra vez localmente
 		}
 }	
 
