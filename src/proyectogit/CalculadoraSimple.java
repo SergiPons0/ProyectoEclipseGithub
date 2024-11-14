@@ -2,13 +2,16 @@ package proyectogit;
 import java.util.Scanner;
 
 public class CalculadoraSimple {
-
+	//<h1>Programa Calculadora Simple Java</h1>
+	// <p>Funcion que sirve para sumar, recibe dos valores y devuelve la suma de ellos</p>
 	public static double sumar(double a, double b) {
 		return a + b;
 		}
+	// <p>Funcion que sirve para restar, recibe dos valores y revuelve la resta</p>
 		public static double restar(double a, double b) {
 		return a - b;
 		}
+	// <p>Programa principal, pide al usuario dos numeros para sumar y restar</p>,
 		public static void main(String[] args) {
 			
 		Scanner scanner = new Scanner(System.in);
