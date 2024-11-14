@@ -24,7 +24,8 @@ public class CalculadoraSimple {
 		scanner.close();
 		// Cambio realizado para la tasca
 		// Cambio realizado desde la rama feature
-		
+
+		// Cambio realizado por un colaborador
 		}
 }	
 
