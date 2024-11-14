@@ -23,6 +23,8 @@ public class CalculadoraSimple {
 		System.out.println("Resultado de la resta: " + resultadoResta);
 		scanner.close();
 		// Cambio realizado para la tasca
+		// Cambio realizado desde la rama feature
+		
 		}
 }	
 
